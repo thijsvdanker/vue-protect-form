@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Vue Protect Form',
   description: 'Vue Component to protect users from leaving a form with changes',
+  base: 'https://bitsnbolts.nl/vue-protect-form/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
