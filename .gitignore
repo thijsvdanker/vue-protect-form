@@ -59,4 +59,3 @@ typings/
 
 # built files
 dist/
-!docs/**/dist/
