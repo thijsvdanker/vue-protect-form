@@ -1,4 +1,4 @@
-# vue protect form [![CircleCI](https://circleci.com/gh/thijsvdanker/vue-protect-form.svg?style=svg)](https://circleci.com/gh/thijsvdanker/vue-protect-form)[!npm][https://img.shields.io/npm/v/@thijsvdanker/vue-protect-form.svg](https://www.npmjs.com/package/@thijsvdanker/vue-protect-form)
+# vue protect form [![CircleCI](https://circleci.com/gh/thijsvdanker/vue-protect-form.svg?style=svg)](https://circleci.com/gh/thijsvdanker/vue-protect-form)[![npm](https://img.shields.io/npm/v/@thijsvdanker/vue-protect-form.svg)](https://www.npmjs.com/package/@thijsvdanker/vue-protect-form)
 
 ## Install
 You can install it via NPM
