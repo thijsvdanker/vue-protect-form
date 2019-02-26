@@ -14,4 +14,17 @@ import VueProtectForm from 'vue-protect-form'
 Vue.use(VueProtectForm)
 ```
 
+To protect a form, wrap the form with a `<vue-protect-form>` tag.<br>
+Example:
+```js
+<vue-protect-form>
+    <form method="POST" action="/">
+        <input type="text" name="foo">
+    </form>
+</vue-protect-form>
+```
+
+## Documentation
+For documentation about properties and usage checkout the [docs](https://thijsvdanker.github.io/vue-protect-form/)
+
 
