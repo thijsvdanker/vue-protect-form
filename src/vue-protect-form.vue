@@ -96,7 +96,8 @@
         }
       },
       addListenersToFormFields () {
-        this.checkableFields.forEach((field) => {
+        // Use Array.prototype.forEach on a nodeList to support IE (see https://developer.mozilla.org/en-US/docs/Web/API/NodeList#Example)
+        Array.prototype.forEach.call(this.checkableFields, (field) => {
           this.storeOrigValue(field);
 
           const eventName = this.getAppropiateEvent(field);
