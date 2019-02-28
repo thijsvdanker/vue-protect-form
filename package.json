@@ -1,6 +1,6 @@
 {
   "name": "@thijsvdanker/vue-protect-form",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Vue Component to protect users from leaving a form with changes",
   "private": false,
   "license": "MIT",
