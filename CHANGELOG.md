@@ -6,9 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2019-02-28
+### Added
+ - .npmignore to create a lighter package
+
 ## [0.1.1] - 2019-02-26
 ### Changed
  - Fix support for IE by using Array.prototype.forEach on the NodeList
- 
+
 ## [0.1.0] - 2019-02-26
  - Initial release
