@@ -1,0 +1,9 @@
+.gitignore
+.circleci
+deploy-docs.sh
+.gitattributes
+tests
+docs/
+public/
+.DS_Store
+node_modules/
